@@ -201,6 +201,3 @@ For any questions or further information, please reach out:
 ---
 
 Happy Coding!
-```
-
-Simply save this content as your `README.md` file in the root of your project directory. This single file contains all the essential details for setting up, running, and contributing to the AI TODO App.
