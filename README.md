@@ -1,6 +1,4 @@
-Below is the complete content for your README.md file in one single file:
 
-```markdown
 # AI TODO App
 
 A smart and efficient AI-powered Todo Management application designed to help you organize, track, and complete your tasks with ease.
